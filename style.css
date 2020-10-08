@@ -1,3 +1,10 @@
-body{
+.container{
     text-align: center;
+}
+#mycarousel{
+    background-color: aqua;
+    height:500px;
+}
+#mycarousel img{
+    margin:40px;
 }
